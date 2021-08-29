@@ -322,6 +322,7 @@ a {
 .img-header1 {
 	z-index: 1;
 	margin-right: -80px;
+	    margin-bottom: -4px;
 }
 .img-header2 {
 	position: relative;
