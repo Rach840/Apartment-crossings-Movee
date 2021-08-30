@@ -356,6 +356,7 @@ a {
 	display: flex;
 	align-items: center;
 	margin-left: 8%;
+	margin-bottom:-4px;
 }
 .img-header1 {
 	z-index: 1;
